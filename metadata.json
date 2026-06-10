@@ -1,0 +1,6 @@
+{
+  "name": "Gym Workouts",
+  "description": "Gym workouts with tailored male and female fitness plans prioritizing strength, cardio, and muscle recovery routines with dynamic progression tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
